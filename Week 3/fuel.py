@@ -1,3 +1,5 @@
+# Fuel Gauge
+
 def main():
     val = round(process_input("Fraction: ") * 100)
 
