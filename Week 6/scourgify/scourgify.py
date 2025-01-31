@@ -1,3 +1,6 @@
+# Scourgify
+
+
 import csv
 import sys
 
